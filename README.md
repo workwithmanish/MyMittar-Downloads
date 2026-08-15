@@ -1,10 +1,10 @@
-# 🤝 MyMittar — Connect, Match & Network
+# MyMittar - Connect, Match & Network
 
 Welcome to the official download hub for **MyMittar**, a modern mobile platform built to help you make meaningful connections for **Dating, Friendship, and Professional Networking**.
 
 ---
 
-## 📲 Download Latest App Release
+## Download Latest App Release
 
 | App Name | Version | Platform | Direct Download | Release Date |
 | :--- | :--- | :--- | :--- | :--- |
@@ -12,7 +12,7 @@ Welcome to the official download hub for **MyMittar**, a modern mobile platform 
 
 ---
 
-## ✨ What is MyMittar?
+## What is MyMittar?
 
 MyMittar is designed to make connecting with people simple, safe, and intuitive:
 
@@ -24,7 +24,7 @@ MyMittar is designed to make connecting with people simple, safe, and intuitive:
 
 ---
 
-## 📥 How to Install the APK on Android
+## How to Install the APK on Android
 
 1. Tap the [📥 **Download Official APK**](https://github.com/workwithmanish/MyMittar-Downloads/releases/latest) link above.
 2. Once the download finishes, open your device **Downloads** folder or tap the download notification.
@@ -36,19 +36,14 @@ MyMittar is designed to make connecting with people simple, safe, and intuitive:
 
 ---
 
-## ⚡ Over-The-Air (OTA) Updates
+## Over-The-Air (OTA) Updates
 You don't need to re-download the APK for minor updates! MyMittar includes built-in background updating technology. Small improvements, UI polishes, and bug fixes will sync automatically when you open the app.
 
 ---
 
-## 🔒 Security & Ownership
+## Security & Ownership
 
 - **Verified Release:** Signed and officially published by **Manish Das**.
 - **Privacy & Safety:** Data protection and encryption implemented across all user data and communication.
 
 ---
-
-## 📄 License & Proprietary Rights
-
-Copyright © 2026 **Manish Swapan Das** (`@workwithmanish`). All Rights Reserved.  
-*MyMittar application binaries, design, and assets are proprietary software. Unauthorized redistribution, decompilation, or reverse engineering is strictly prohibited.*
