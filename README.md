@@ -43,7 +43,7 @@ You don't need to re-download the APK for minor updates! MyMittar includes built
 
 ## Security & Ownership
 
-- **Verified Release:** Signed and officially published by **Manish Das**.
+- **Verified Release:** Signed and officially published by **Manish Swapan Das**.
 - **Privacy & Safety:** Data protection and encryption implemented across all user data and communication.
 
 ---
