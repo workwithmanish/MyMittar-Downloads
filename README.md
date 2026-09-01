@@ -1,4 +1,4 @@
-# 🌟 MyMittar — Connect, Date & Build Your Circle
+# 🌟 MyMittar - Connect, Date & Build Your Circle
 
 > **MyMittar** is a modern social and community app built for real connections. Switch seamlessly between **Dating**, **Making Friends**, and **Professional Networking**, or join local topic hubs called **Addas**.
 > 
@@ -19,7 +19,7 @@
 * 💼 **Network**: Connect with founders, creators, and professionals.
 * ☕ **Addas (Communities)**: Join or create interest hubs for your city (cafés, tech, fitness, events).
 * 🛡️ **100% Verified Profiles**: Real people only. Video-verified to keep catfishes and spam out.
-* 🔄 **Auto Live Updates**: The app updates automatically in the background — no manual re-installs needed.
+* 🔄 **Auto Live Updates**: The app updates automatically in the background - no manual re-installs needed.
 
 ---
 
